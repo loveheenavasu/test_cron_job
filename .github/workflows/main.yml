@@ -16,4 +16,4 @@ jobs:
     steps:
       # Runs a single command using the runners shell
       - name: Run a one-line script
-        run: python helo.py
+        run: python3 helo.py
